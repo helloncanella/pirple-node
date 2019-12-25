@@ -4,7 +4,6 @@ const url = require("url");
 const StringDecoder = require("string_decoder").StringDecoder;
 const config = require("./lib/config");
 const fs = require("fs");
-const _data = require("./lib/data");
 const handlers = require("./lib/handlers");
 const helpers = require("./lib/helpers");
 
@@ -76,8 +75,6 @@ function unifiedServer(req, res) {
 
       console.log("Returning this response: ", statusCode, payloadString);
     });
-
-    // res.end("hello world \n");
   });
 }
 
