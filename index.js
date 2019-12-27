@@ -78,11 +78,9 @@ function unifiedServer(req, res) {
   });
 }
 
-// handlers.end = function
-
-//define a router
 var router = {
   ping: handlers.ping,
   users: handlers.users,
-  tokens: handlers.tokens
+  tokens: handlers.tokens,
+  checks: handlers.checks
 };

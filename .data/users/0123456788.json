@@ -1,1 +1,14 @@
-{"firstName":"Ricardo","lastName":"Tico","phone":"0123456788","hashedPassword":"07f839905619b6d33cd531653a7b95abb1edd6b28e281b102d9d0bfce1e7cdfd","tosAgreement":true}
+{
+  "firstName": "Ricardo",
+  "lastName": "Tico",
+  "phone": "0123456788",
+  "hashedPassword": "07f839905619b6d33cd531653a7b95abb1edd6b28e281b102d9d0bfce1e7cdfd",
+  "tosAgreement": true,
+  "checks": [
+    "upv2lplpt1vri2mi02dh",
+    "e31279ie9twsd7v9j7h7",
+    "j32vxmm5vo849wbxkej9",
+    "3fy66y9a60angih5n9hd",
+    "xicj6h9ivtc7g16yfppd"
+  ]
+}
